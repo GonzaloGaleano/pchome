@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">pchome</string>
+    <string name="iniciar_sesion">INICIAR SESIÒN</string>
+    <string name="registrarme">REGISTRARME</string>
 </resources>
